@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<form>
+<input type="text" name="name" placeholder="Your name"><br><br>
+<input type="text" name="Email" placeholder="Your Email"><br><br>
+<textarea rows="5" cols="10" placeholder="meassage"></textarea><br><br>
+<button>Submit</button>
+<button>Ubdate</button>
+<button>Delete</button>
+</form>
+</body>
+</html>
